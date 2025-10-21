@@ -1,0 +1,22 @@
+# Environnements et cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / VSCode
+.vscode/
+.idea/
+
+# Données non pertinentes
+*.tar.gz
+*.zip
+gtsrb/
+*.csv
+
+# NLTK / modèle
+nltk_data/
+
+# OS
+.DS_Store
+Thumbs.db
